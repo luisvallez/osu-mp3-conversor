@@ -25,7 +25,7 @@ Este programa permite extraer automáticamente los archivos de audio de los beat
 - El programa no elimina/modifíca los archivos.osz originales
 
 - ## Autor
-- Este programa fue creado por [Fernando]([Fernando](https://luisvallez.github.io/Portafolio/)
+- Este programa fue creado por [Fernando](https://luisvallez.github.io/Portafolio/)
 
 ## Funcionamiento
 
